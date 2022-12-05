@@ -13,3 +13,5 @@ Usage
 ```python
 import tw_matplotlib
 ```
+[Demo](https://github.com/cchuang2009/2022-1/blob/main/Python_IM/Week_8_Price_Prediction_Laptop-EDA.ipynb)
+
